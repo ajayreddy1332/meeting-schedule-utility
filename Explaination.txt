@@ -1,0 +1,8 @@
+Steps followed:
+---------------
+- Read the data in Rooms file
+- Process the data and save it to cache - RoomInfo object
+- Finding all the available floor and meeting rooms based on input team size, start and end time slots
+- Print the collected the meeting rooms data based on available time slots and team member size
+
+The above steps ensures the meeting room data will be accurate
